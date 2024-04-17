@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563358377379",
+    "project_id": "hybridmediaworksisl-608d3",
+    "storage_bucket": "hybridmediaworksisl-608d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563358377379:android:c8ccbd14dde6ace9b82616",
+        "android_client_info": {
+          "package_name": "com.assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArw9yR9Ez4Fq_-9HR7mFf0KuSDQecXtKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
